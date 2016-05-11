@@ -7,4 +7,6 @@
 # CHAPTER 3
 # CHAPTER 4
 # CHAPTER 5
+鬼が島に着いた桃太郎は仲間と協力して鬼を退治しました。
+うおー
 # CHAPTER 6
