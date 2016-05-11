@@ -6,5 +6,7 @@
 # CHAPTER 2
 # CHAPTER 3
 # CHAPTER 4
+鬼が現れた！！！！！！！！！！！！！！
+倒した。
 # CHAPTER 5
 # CHAPTER 6
